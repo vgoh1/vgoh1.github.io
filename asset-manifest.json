@@ -1,0 +1,38 @@
+{
+  "files": {
+    "static/js/0.3e3918f9.chunk.js": "/static/js/0.3e3918f9.chunk.js",
+    "static/js/0.3e3918f9.chunk.js.map": "/static/js/0.3e3918f9.chunk.js.map",
+    "static/css/1.da326920.chunk.css": "/static/css/1.da326920.chunk.css",
+    "static/js/1.f21fcafe.chunk.js": "/static/js/1.f21fcafe.chunk.js",
+    "static/js/1.f21fcafe.chunk.js.map": "/static/js/1.f21fcafe.chunk.js.map",
+    "main.js": "/static/js/main.69027951.chunk.js",
+    "main.js.map": "/static/js/main.69027951.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.652084a1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.652084a1.js.map",
+    "static/css/4.bde2d413.chunk.css": "/static/css/4.bde2d413.chunk.css",
+    "static/js/4.5b231719.chunk.js": "/static/js/4.5b231719.chunk.js",
+    "static/js/4.5b231719.chunk.js.map": "/static/js/4.5b231719.chunk.js.map",
+    "static/css/5.a178e2ce.chunk.css": "/static/css/5.a178e2ce.chunk.css",
+    "static/js/5.f1281964.chunk.js": "/static/js/5.f1281964.chunk.js",
+    "static/js/5.f1281964.chunk.js.map": "/static/js/5.f1281964.chunk.js.map",
+    "static/js/6.9ea5a69a.chunk.js": "/static/js/6.9ea5a69a.chunk.js",
+    "static/js/6.9ea5a69a.chunk.js.map": "/static/js/6.9ea5a69a.chunk.js.map",
+    "static/css/7.75c4945d.chunk.css": "/static/css/7.75c4945d.chunk.css",
+    "static/js/7.4364955a.chunk.js": "/static/js/7.4364955a.chunk.js",
+    "static/js/7.4364955a.chunk.js.map": "/static/js/7.4364955a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/1.da326920.chunk.css.map": "/static/css/1.da326920.chunk.css.map",
+    "static/css/4.bde2d413.chunk.css.map": "/static/css/4.bde2d413.chunk.css.map",
+    "static/css/5.a178e2ce.chunk.css.map": "/static/css/5.a178e2ce.chunk.css.map",
+    "static/css/7.75c4945d.chunk.css.map": "/static/css/7.75c4945d.chunk.css.map",
+    "static/js/0.3e3918f9.chunk.js.LICENSE.txt": "/static/js/0.3e3918f9.chunk.js.LICENSE.txt",
+    "static/js/4.5b231719.chunk.js.LICENSE.txt": "/static/js/4.5b231719.chunk.js.LICENSE.txt",
+    "static/media/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.41d84077.jpg": "/static/media/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.41d84077.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.652084a1.js",
+    "static/css/4.bde2d413.chunk.css",
+    "static/js/4.5b231719.chunk.js",
+    "static/js/main.69027951.chunk.js"
+  ]
+}
